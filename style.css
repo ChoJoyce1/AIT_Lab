@@ -89,9 +89,10 @@ a:hover{
         .menu_icon{
             display: block;
             float: right;
-            width:5%;
-            height: 5%;
-            margin:5px;
+            width:8%;
+            height: 8%;
+            margin-right:15px;
+			margin-bottom:15px;
         }
 
 
